@@ -1,0 +1,11 @@
+(librepcb_recent_projects
+ (project "projects/lcd_i2c/lcd_i2c.lpp")
+ (project "projects/controller_v2/Schematics and Boards v2.lpp")
+ (project "projects/controller/Schematics and Boards.lpp")
+ (project "projects/Schematics_and_Boards_v2/Schematics_and_Boards_v2.lpp")
+ (project "projects/Schematics and Boards/Schematics and Boards.lpp")
+ (project "projects/Schematics and Boards/Lathe Feed Mechanism.lpp")
+ (project "projects/Lathe Feed Mechanism/Lathe Feed Mechanism.lpp")
+ (project "projects/Електронна гітара ТВ-16/Електронна гітара ТВ-16.lpp")
+ (project "projects/12x2_display/12x2_display.lpp")
+)

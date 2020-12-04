@@ -1,0 +1,11 @@
+(librepcb_library c9bb346a-3171-4516-ad40-fb3808adaa75
+ (name "Local")
+ (description "")
+ (keywords "")
+ (author "Levko Kravets <levko.ne@gmail.com>")
+ (version "0.1")
+ (created 2020-08-22T09:43:13Z)
+ (deprecated false)
+ (url "https://github.com/kravets-levko/librepcb-components")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
